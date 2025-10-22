@@ -1,0 +1,18 @@
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Compiled Java class files
+*.class
+
+# Bin directory
+/bin/
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Misc
+.DS_Store
